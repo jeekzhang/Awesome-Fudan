@@ -80,7 +80,7 @@
 
 > Project of Yang Xu: FDFTP
 
-- [SMAC-Zhang]FDFTP: 基于UDP实现的可靠文件传输协议FDFTP [Github](https://github.com/SMAC-Zhang/FDFTP)
+- [SMAC-Zhang] FDFTP: 基于UDP实现的可靠文件传输协议FDFTP [Github](https://github.com/SMAC-Zhang/FDFTP)
   
 
 #### 软件工程-COMP130015
@@ -129,7 +129,7 @@
 
 > Project of XiaoYang Wang
 
-- [SMAC-Zhang]Complier [Github](https://github.com/SMAC-Zhang/Compiler)
+- [SMAC-Zhang] Complier [Github](https://github.com/SMAC-Zhang/Compiler)
 
 #### 操作系统-COMP130110
 
