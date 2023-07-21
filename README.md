@@ -109,6 +109,12 @@
 - [PrincipleZheng] CarAdvisor: 2022人工智能A-课程项目 [Github](https://github.com/PrincipleZheng/CarAdvisor)
 
 
+#### 并行分布计算-COMP130192
+
+> Project of Qi Zhang
+
+- [dingfen] ParallelComputing: 并行计算程序设计代码库 [Github](https://github.com/dingfen/ParallelComputing)
+
 
 #### 计算机可视化-COMP130174
 
