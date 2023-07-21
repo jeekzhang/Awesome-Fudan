@@ -128,7 +128,7 @@
 ## 课程笔记
 
 这个部分将收录课程相关的笔记，供学习者查漏补缺和期末突击。
-
+- [FDUFDU19CS] AcceptedHelper: Fudan2019CS课程笔记汇总（含离散数学、计算机系统基础、计算理论基础、操作系统、计算机网络、数据挖掘、计算机图形学） [Github Page](https://fdu19cs.github.io/AcceptedHelper)
 
 
 ## 相关仓库
