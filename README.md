@@ -56,8 +56,7 @@
 - [CaseyYang] MapMatching [Github](https://github.com/CaseyYang/MapMatching)
 - [Y-aang] HMM-Viterbi-for-Map-Matching: A simple impliment of HMM-Viterbi for Map Matching [Github](https://github.com/Y-aang/HMM-Viterbi-for-Map-Matching)
 - [bw-S0L] map-matching [Github](https://github.com/bw-S0L/map-matching)
-
-
+- [SMAC-Zhang] DS-PJ[Github](https://github.com/SMAC-Zhang/DS-PJ)
 
 #### 计算机组成与体系结构-COMP130191
 
@@ -79,7 +78,10 @@
 - [Luther-Sparks] RUDP: Implement reliable UDP protocol.  [Github](https://github.com/Luther-Sparks/RUDP)
 - [jeekzhang] RUDP-Python3: 基于UDP实现可靠传输RUDP  [Github](https://github.com/jeekzhang/RUDP-Python3)
 
+> Project of Yang Xu: FDFTP
 
+- [SMAC-Zhang]FDFTP [Github](https://github.com/SMAC-Zhang/FDFTP)
+- 
 
 #### 软件工程-COMP130015
 
@@ -123,7 +125,21 @@
 - [jeekzhang] WorldCupVisualization: Plotline实践——基于条形图的世界杯数据可视化  [Github](https://github.com/jeekzhang/WorldCupVisualization)
 - [tuanshaochi] Computer-Visualization: Homework of Computer Visualization [Github](https://github.com/tuanshaochi/Computer-Visualization)
 
+#### 编译-COMP130014
 
+> Project of XiaoYang Wang
+
+- [SMAC-Zhang]Complier [Github](https://github.com/SMAC-Zhang/Compiler)
+
+#### 操作系统-COMP130110
+
+> Project of Liang Zhang
+
+- [SMAC-Zhang] OS-2022Fall-Fudan [Github](https://github.com/SMAC-Zhang/OS-2022Fall-Fudan)
+
+#### 移动互联网- COMP130140
+
+- [FDU205] YoYu [Github](https://github.com/FDU205/YoYu)
 
 ## 课程笔记
 
@@ -155,5 +171,4 @@ Creative Commons BY-SA 4.0 License
 本作品采用 知识共享署名 - 相同方式共享 4.0 国际许可协议 进行许可。
 
 如需了解更多关于此许可证的信息，请访问 https://creativecommons.org/licenses/by-sa/4.0/deed.zh 。
-
 
