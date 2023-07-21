@@ -56,7 +56,7 @@
 - [CaseyYang] MapMatching [Github](https://github.com/CaseyYang/MapMatching)
 - [Y-aang] HMM-Viterbi-for-Map-Matching: A simple impliment of HMM-Viterbi for Map Matching [Github](https://github.com/Y-aang/HMM-Viterbi-for-Map-Matching)
 - [bw-S0L] map-matching [Github](https://github.com/bw-S0L/map-matching)
-- [SMAC-Zhang] DS-PJ [Github](https://github.com/SMAC-Zhang/DS-PJ)
+- [SMAC-Zhang] DS-PJ: 基于隐马尔可夫模型实现的地图匹配 [Github](https://github.com/SMAC-Zhang/DS-PJ)
 
 #### 计算机组成与体系结构-COMP130191
 
@@ -80,14 +80,14 @@
 
 > Project of Yang Xu: FDFTP
 
-- [SMAC-Zhang]FDFTP [Github](https://github.com/SMAC-Zhang/FDFTP)
-- 
+- [SMAC-Zhang]FDFTP: 基于UDP实现的可靠文件传输协议FDFTP [Github](https://github.com/SMAC-Zhang/FDFTP)
+  
 
 #### 软件工程-COMP130015
 
 > Project of Liwei Shen
 
-- [mc020207] mc_software: onlineshopping- 2023年春复旦大学软件工程lab [Github](https://github.com/mc020207/mc_software)
+- [mc020207] mc_software: onlineshopping-2023年春复旦大学软件工程lab [Github](https://github.com/mc020207/mc_software)
 
 
 
