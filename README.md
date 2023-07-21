@@ -56,7 +56,7 @@
 - [CaseyYang] MapMatching [Github](https://github.com/CaseyYang/MapMatching)
 - [Y-aang] HMM-Viterbi-for-Map-Matching: A simple impliment of HMM-Viterbi for Map Matching [Github](https://github.com/Y-aang/HMM-Viterbi-for-Map-Matching)
 - [bw-S0L] map-matching [Github](https://github.com/bw-S0L/map-matching)
-- [SMAC-Zhang] DS-PJ[Github](https://github.com/SMAC-Zhang/DS-PJ)
+- [SMAC-Zhang] DS-PJ [Github](https://github.com/SMAC-Zhang/DS-PJ)
 
 #### 计算机组成与体系结构-COMP130191
 
@@ -139,6 +139,7 @@
 
 #### 移动互联网- COMP130140
 
+> Project of Yangfan Zhou
 - [FDU205] YoYu [Github](https://github.com/FDU205/YoYu)
 
 ## 课程笔记
