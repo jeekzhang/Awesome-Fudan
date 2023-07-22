@@ -129,18 +129,18 @@
 
 > Project of XiaoYang Wang
 
-- [SMAC-Zhang] Complier [Github](https://github.com/SMAC-Zhang/Compiler)
+- [SMAC-Zhang] Complier: 一个简单的编译器，能将fdmj语言编译成llvm ir或者RPI(树莓派) arm [Github](https://github.com/SMAC-Zhang/Compiler)
 
 #### 操作系统-COMP130110
 
 > Project of Liang Zhang
 
-- [SMAC-Zhang] OS-2022Fall-Fudan [Github](https://github.com/SMAC-Zhang/OS-2022Fall-Fudan)
+- [SMAC-Zhang] OS-2022Fall-Fudan: Course Website for OS Autumn 2022 at Fudan University [Github](https://github.com/SMAC-Zhang/OS-2022Fall-Fudan)
 
 #### 移动互联网- COMP130140
 
 > Project of Yangfan Zhou
-- [FDU205] YoYu [Github](https://github.com/FDU205/YoYu)
+- [FDU205] YoYu: A simple app with frontend and backend codes [Github](https://github.com/FDU205/YoYu)
 
 ## 课程笔记
 
