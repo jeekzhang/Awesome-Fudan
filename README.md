@@ -1,4 +1,6 @@
-# Awesome-Fudan [![Awesome](https://camo.githubusercontent.com/64f8905651212a80869afbecbf0a9c52a5d1e70beab750dea40a994fa9a9f3c6/68747470733a2f2f617765736f6d652e72652f62616467652e737667)](https://awesome.re/)![Fudan](https://img.shields.io/badge/Fu-Dan-c10m95)
+# Awesome-Fudan 
+
+# [![Awesome](https://camo.githubusercontent.com/64f8905651212a80869afbecbf0a9c52a5d1e70beab750dea40a994fa9a9f3c6/68747470733a2f2f617765736f6d652e72652f62616467652e737667)](https://awesome.re/)![Fudan](https://img.shields.io/badge/Fu-Dan-c10m95)
 
 欢迎来到 Awesome-Fudan 仓库！本项目旨在汇总和整理复旦大学课程相关的代码仓库，为查找课程代码资源提供快速索引。
 
@@ -58,6 +60,8 @@
 - [bw-S0L] map-matching [Github](https://github.com/bw-S0L/map-matching)
 - [SMAC-Zhang] DS-PJ: 基于隐马尔可夫模型实现的地图匹配 [Github](https://github.com/SMAC-Zhang/DS-PJ)
 
+
+
 #### 计算机组成与体系结构-COMP130191
 
 > Project of Xiaoguang Sun, Zhiqiang Tang and Hong Lu: MIPS CPU（单周期、多周期与流水线）
@@ -83,11 +87,40 @@
 - [SMAC-Zhang] FDFTP: 基于UDP实现的可靠文件传输协议FDFTP [Github](https://github.com/SMAC-Zhang/FDFTP)
   
 
+
+
+#### 操作系统-COMP130110
+
+> Project of Liang Zhang
+
+- [SMAC-Zhang] OS-2022Fall-Fudan: Course Website for OS Autumn 2022 at Fudan University [Github](https://github.com/SMAC-Zhang/OS-2022Fall-Fudan)
+
+
+
 #### 软件工程-COMP130015
 
 > Project of Liwei Shen
 
 - [mc020207] mc_software: onlineshopping-2023年春复旦大学软件工程lab [Github](https://github.com/mc020207/mc_software)
+
+
+
+#### 计算机图形学A-COMP130018
+
+> Project of Wei Li: 音乐可视化&真实感图形学&动画
+
+- [SaltyfishLeavesyoung] COMP130018.01: 计算机图形学PJ [Github](https://github.com/SaltyfishLeavesyoung/COMP130018.01)
+- [LittleBBBo] ComputerGraphics: Projects of COMP130018.01（计算机图形学） [Github](https://github.com/LittleBBBo/ComputerGraphics)
+- [cdsss] Computer-Graphics: 复旦大学计算机科学技术学院 - 计算机图形学项目 [Github](https://github.com/cdsss/Computer-Graphics)
+- [mc020207] mc_computer_graphics: 2022年秋复旦大学计算机图形学lab [Github](https://github.com/mc020207/mc_computer_graphics)
+
+> Project of Bo Yan: A copy of MIT 6.837, including Curves-surfaces(assn1) and Ray-casting-tracing(assn4, assn5)
+
+-  [jeekzhang] Graphics-project: Computer Graphics Course (COMP130018.01, 2023 Spring) Project of Fudan University  [Github](https://github.com/jeekzhang/Graphics-project)
+
+> Project of Bo Yan: NeRF
+
+- [jeekzhang] PJNeRF: PJ with NeRF, Computer Graphics Course Project-3 of Fudan University [Github](https://github.com/jeekzhang/PJNeRF)
 
 
 
@@ -111,11 +144,21 @@
 - [PrincipleZheng] CarAdvisor: 2022人工智能A-课程项目 [Github](https://github.com/PrincipleZheng/CarAdvisor)
 
 
+
 #### 并行分布计算-COMP130192
 
 > Project of Qi Zhang
 
 - [dingfen] ParallelComputing: 并行计算程序设计代码库 [Github](https://github.com/dingfen/ParallelComputing)
+
+
+
+#### 编译-COMP130014
+
+> Project of XiaoYang Wang
+
+- [SMAC-Zhang] Complier: 一个简单的编译器，能将fdmj语言编译成llvm ir或者RPI(树莓派) arm [Github](https://github.com/SMAC-Zhang/Compiler)
+
 
 
 #### 计算机可视化-COMP130174
@@ -125,22 +168,14 @@
 - [jeekzhang] WorldCupVisualization: Plotline实践——基于条形图的世界杯数据可视化  [Github](https://github.com/jeekzhang/WorldCupVisualization)
 - [tuanshaochi] Computer-Visualization: Homework of Computer Visualization [Github](https://github.com/tuanshaochi/Computer-Visualization)
 
-#### 编译-COMP130014
 
-> Project of XiaoYang Wang
-
-- [SMAC-Zhang] Complier: 一个简单的编译器，能将fdmj语言编译成llvm ir或者RPI(树莓派) arm [Github](https://github.com/SMAC-Zhang/Compiler)
-
-#### 操作系统-COMP130110
-
-> Project of Liang Zhang
-
-- [SMAC-Zhang] OS-2022Fall-Fudan: Course Website for OS Autumn 2022 at Fudan University [Github](https://github.com/SMAC-Zhang/OS-2022Fall-Fudan)
 
 #### 移动互联网- COMP130140
 
 > Project of Yangfan Zhou
 - [FDU205] YoYu: A simple app with frontend and backend codes [Github](https://github.com/FDU205/YoYu)
+
+
 
 ## 课程笔记
 
