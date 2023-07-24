@@ -150,6 +150,8 @@
 > Project of Qi Zhang
 
 - [dingfen] ParallelComputing: 并行计算程序设计代码库 [Github](https://github.com/dingfen/ParallelComputing)
+- [Row11n] ParallelComputingPJ: 并行快速排序&PSRS的MPI实现 [Github](https://github.com/Row11n/ParallelComputingPJ)
+- [mc020207] mc_Parallel_distributed_computing_lab: 复旦大学并行分布式开发lab [Github](https://github.com/mc020207/mc_Parallel_distributed_computing_lab)
 
 
 
@@ -158,7 +160,7 @@
 > Project of XiaoYang Wang
 
 - [SMAC-Zhang] Complier: 一个简单的编译器，能将fdmj语言编译成llvm ir或者RPI(树莓派) arm [Github](https://github.com/SMAC-Zhang/Compiler)
-
+- [Lin-Yanjun] FDMJCompiler: 复旦大学2023春编译(H)：使用C语言，基于虎书的编译器框架，实现针对FDMJ（Fu Dan Mini Java）语言的编译器 [Gitee](https://gitee.com/demon0511/fdmjcompiler)
 
 
 #### 计算机可视化-COMP130174
