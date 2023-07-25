@@ -163,6 +163,7 @@
 - [Lin-Yanjun] FDMJCompiler: 复旦大学2023春编译(H)：使用C语言，基于虎书的编译器框架，实现针对FDMJ（Fu Dan Mini Java）语言的编译器 [Gitee](https://gitee.com/demon0511/fdmjcompiler)
 
 
+
 #### 计算机可视化-COMP130174
 
 > Project of Zhiping Xu
@@ -176,6 +177,12 @@
 
 > Project of Yangfan Zhou
 - [FDU205] YoYu: A simple app with frontend and backend codes [Github](https://github.com/FDU205/YoYu)
+- [ JsCrying] Tape: 移动互联网课程项目 [Github](https://github.com/JsCrying/Tape)
+- [Anon-233] Thesis_Management_System\_: 复旦大学2023春季学期移动互联网课程Project [Github](https://github.com/Anon-233/Thesis_Management_System_)
+- [CatlessFish] crispy-coconut: 一款类似Tape的匿名提问社交App [Github](https://github.com/CatlessFish/crispy-coconut)
+- [TSKGHS17] dataset-tagger-ui: data tag platform, front-end [Github](https://github.com/TSKGHS17/dataset-tagger-ui)
+- [mobile-Internet-group] mobile-Internet-2023-spring: Location-Based-Wall & frontend & backend [Github](https://github.com/mobile-Internet-group)
+- [Wang-Mengyao] RoseSCI: A Thesis management system, aim to design a paper management system for convenient literature management and review. [Github]https://github.com/Wang-Mengyao/Thesis-management-system
 
 
 
@@ -183,6 +190,7 @@
 
 这个部分将收录课程相关的笔记，供学习者查漏补缺和期末突击。
 - [FDU19CS] AcceptedHelper: Fudan2019CS课程笔记汇总（含离散数学、计算机系统基础、计算理论基础、操作系统、计算机网络、数据挖掘、计算机图形学） [Github Page](https://fdu19cs.github.io/AcceptedHelper)
+
 
 
 ## 相关仓库
@@ -203,7 +211,10 @@
 - **创建Issue**：可以直接把链接和课程信息附加在 Issue 中
 - **邮件联系**：也可以把链接和相关内容发送至我的[邮箱](mailto:jeekzhang@139.com)
 
+
+
 ## 许可证
+
 Creative Commons BY-SA 4.0 License
 
 本作品采用 知识共享署名 - 相同方式共享 4.0 国际许可协议 进行许可。
