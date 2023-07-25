@@ -52,6 +52,7 @@
 
 - [jeekzhang] Vim-mini: 2021年秋复旦大学大二上数据结构大作业——vim编辑器青春版 [Github](https://github.com/JingYiJun/sfSnakePro)
 - [Lin-Yanjun] FDVIM: 复旦大学2021秋数据结构：使用C++，设计完整的封装、继承、多态体系，利用合理的数据结构，实现简易vim文本编辑器 [Gitee](https://gitee.com/demon0511/fdvim)
+- [qilinO-o] MyText: Vim like editor [Github](https://github.com/qilinO-o/MyText)
 
 > Project of Weiwei Sun: 地图匹配 
 
@@ -67,6 +68,10 @@
 > Project of Xiaoguang Sun, Zhiqiang Tang and Hong Lu: MIPS CPU（单周期、多周期与流水线）
 
 - [jeekzhang] CPU-lab: 2022年春复旦大学大二下组成与体系结构实验  [Github](https://github.com/jeekzhang/CPU-lab)
+
+> Project of Chen Chen
+
+- [qilinO-o] RISCV64-CPU: A RISC-V64 CPU using System Verilog  [Github](https://github.com/qilinO-o/RISCV64-CPU)
 
 
 
@@ -85,7 +90,7 @@
 > Project of Yang Xu: FDFTP
 
 - [SMAC-Zhang] FDFTP: 基于UDP实现的可靠文件传输协议FDFTP [Github](https://github.com/SMAC-Zhang/FDFTP)
-  
+- [qilinO-o] FDFTP: FTP based on UDP  [Github](https://github.com/qilinO-o/FDFTP)  
 
 
 
@@ -94,7 +99,7 @@
 > Project of Liang Zhang
 
 - [SMAC-Zhang] OS-2022Fall-Fudan: Course Website for OS Autumn 2022 at Fudan University [Github](https://github.com/SMAC-Zhang/OS-2022Fall-Fudan)
-
+- [qilinO-o] OS-2022-FDU: A simple OS kernel (AArch64) [Github](https://github.com/qilinO-o/OS-2022-FDU)
 
 
 #### 软件工程-COMP130015
