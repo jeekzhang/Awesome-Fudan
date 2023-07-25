@@ -187,7 +187,7 @@
 - [CatlessFish] crispy-coconut: 一款类似Tape的匿名提问社交App [Github](https://github.com/CatlessFish/crispy-coconut)
 - [TSKGHS17] dataset-tagger-ui: data tag platform, front-end [Github](https://github.com/TSKGHS17/dataset-tagger-ui)
 - [mobile-Internet-group] mobile-Internet-2023-spring: Location-Based-Wall & frontend & backend [Github](https://github.com/mobile-Internet-group)
-- [Wang-Mengyao] RoseSCI: A Thesis management system, aim to design a paper management system for convenient literature management and review. [Github]https://github.com/Wang-Mengyao/Thesis-management-system
+- [Wang-Mengyao] RoseSCI: A Thesis management system, aim to design a paper management system for convenient literature management and review. [Github](https://github.com/Wang-Mengyao/Thesis-management-system)
 
 
 
