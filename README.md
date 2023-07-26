@@ -208,6 +208,7 @@
 - [openFudan] fudan-coursera: 复旦大学课程资源 [Github](https://github.com/openFudan/fudan-coursera)
 - [PrincipleZheng] FDU-CS-ClassMaterials: 复旦大学计算机相关课程考试试卷 [Github](https://github.com/PrincipleZheng/FDU-CS-ClassMaterials)
 - [KaguyaHouraisan] Course-Projects-of-FDU-Software-Engineering: All projects I completed in Software Engineering in Fudan University from 2018 / 复旦大学2018级软件工程专业课程项目合集 [Github](https://github.com/KaguyaHouraisan/Course-Projects-of-FDU-Software-Engineering)
+- [ForeverHaibara] Fudan-Courses: Notes for Courses in School of Data Science, Fudan University / 复旦大学数据科学与大数据技术专业（复旦大数据）学习笔记 [Github](https://github.com/ForeverHaibara/Fudan-Courses)
 
 
 
