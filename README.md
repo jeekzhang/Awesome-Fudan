@@ -91,6 +91,7 @@
 
 - [SMAC-Zhang] FDFTP: 基于UDP实现的可靠文件传输协议FDFTP [Github](https://github.com/SMAC-Zhang/FDFTP)
 - [qilinO-o] FDFTP: FTP based on UDP  [Github](https://github.com/qilinO-o/FDFTP)  
+- [Row11n] FDFTP: This repository implements a little tool of FTP by python using socket module for FDU Computer Networks course’s lab [Github](https://github.com/Row11n/FDFTP)
 
 
 
@@ -209,6 +210,7 @@
 - [PrincipleZheng] FDU-CS-ClassMaterials: 复旦大学计算机相关课程考试试卷 [Github](https://github.com/PrincipleZheng/FDU-CS-ClassMaterials)
 - [KaguyaHouraisan] Course-Projects-of-FDU-Software-Engineering: All projects I completed in Software Engineering in Fudan University from 2018 / 复旦大学2018级软件工程专业课程项目合集 [Github](https://github.com/KaguyaHouraisan/Course-Projects-of-FDU-Software-Engineering)
 - [ForeverHaibara] Fudan-Courses: Notes for Courses in School of Data Science, Fudan University / 复旦大学数据科学与大数据技术专业（复旦大数据）学习笔记 [Github](https://github.com/ForeverHaibara/Fudan-Courses)
+- [opheliazhang2] FDU 开放题库 [Notion](https://same-smile-119.notion.site/FDU-82b7f0265fc743f7a9bbf32293495b52)
 
 
 
