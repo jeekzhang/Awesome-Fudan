@@ -79,12 +79,16 @@
 
 > Project of Dilin Mao: SMTP
 
+- [Unparalleled-Calvin] Cute-Mail: A cute E-mail client with the help of electron and SMTP [Github](https://github.com/Unparalleled-Calvin/Cute-Mail)
 - [jeekzhang] SMTP-Client: 基于socket和gui实现的SMTP邮件客户端  [Github](https://github.com/jeekzhang/SMTP-Client)
+- [bush-hider] fdu-computer-networks-SMPT: C# 依据SMPT发送邮件 [Github](https://github.com/bush-hider/fdu-computer-networks-SMPT)
 - [tuanshaochi] SMTP-mail-sender: A small application for computer networking [Github](https://github.com/tuanshaochi/SMTP-mail-sender)
 
 > Project of Dilin Mao: RUDP
 
 - [Luther-Sparks] RUDP: Implement reliable UDP protocol.  [Github](https://github.com/Luther-Sparks/RUDP)
+- [Unparalleled-Calvin] RUDP: Reliable UDP, Computer Network Lab [Github](https://github.com/Unparalleled-Calvin/RUDP)
+- [bush-hider] fdu-computer-networks-RUDP: python 计算机网络-基于UDP实现可靠传输实验 [Github](https://github.com/bush-hider/fdu-computer-networks-RUDP)
 - [jeekzhang] RUDP-Python3: 基于UDP实现可靠传输RUDP  [Github](https://github.com/jeekzhang/RUDP-Python3)
 
 > Project of Yang Xu: FDFTP
