@@ -54,6 +54,9 @@
 - [Lin-Yanjun] FDVIM: 复旦大学2021秋数据结构：使用C++，设计完整的封装、继承、多态体系，利用合理的数据结构，实现简易vim文本编辑器 [Gitee](https://gitee.com/demon0511/fdvim)
 - [qilinO-o] MyText: Vim like editor [Github](https://github.com/qilinO-o/MyText)
 
+> Project of Yuejie Zhang: Online Judge and Course Materials
+- [KevinLee0328] COMP130004-FDU: 数据结构 Data Structure FDU-Fall22-COMP130004.02 [Github](https://github.com/KevinLee0328/COMP130004-FDU)
+
 > Project of Weiwei Sun: 地图匹配 
 
 - [CaseyYang] MapMatching [Github](https://github.com/CaseyYang/MapMatching)
