@@ -191,7 +191,7 @@
 
 
 
-#### 移动互联网- COMP130140
+#### 移动互联网-COMP130140
 
 > Project of Yangfan Zhou
 - [FDU205] YoYu: A simple app with frontend and backend codes [Github](https://github.com/FDU205/YoYu)
@@ -201,6 +201,16 @@
 - [TSKGHS17] dataset-tagger-ui: data tag platform, front-end [Github](https://github.com/TSKGHS17/dataset-tagger-ui)
 - [mobile-Internet-group] mobile-Internet-2023-spring: Location-Based-Wall & frontend & backend [Github](https://github.com/mobile-Internet-group)
 - [Wang-Mengyao] RoseSCI: A Thesis management system, aim to design a paper management system for convenient literature management and review. [Github](https://github.com/Wang-Mengyao/Thesis-management-system)
+
+
+
+#### 数字信号处理-COMP130139
+
+> Project of Xiangyang Xue
+
+- [ichn-hu] Speech-Recognition-Via-CNN: 孤立词语音识别，复旦大学计算机科学技术学院数字信号处理期末项目 [Github](https://github.com/ichn-hu/Speech-Recognition-Via-CNN)
+- [AlexanderChiuluvB] SpeechRecognitionPJ: Course Project of Speech Recognition 数字信号处理 复旦大学 孤立词语音识别 [Github](https://github.com/AlexanderChiuluvB/SpeechRecognitionPJ)
+- [Hongqin-Li] speech-command-recognition: 复旦大学数字信号处理课程项目 [Github](https://github.com/Hongqin-Li/speech-command-recognition)
 
 
 
