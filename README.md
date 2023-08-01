@@ -182,12 +182,34 @@
 
 
 
+#### 软件化工程开发-COMP130112
+
+> Project of Ronghua Chen
+
+- [XufengCh] SoftwareEngineeringProject: 复旦大学软件工程化开发课程项目 [Github](https://github.com/XufengCh/SoftwareEngineeringProject)
+- [WxxShirley] SE-Travel: 沪驴👣 一款提供上海市旅行、交友、攻略手帐的微信小程序 [Github](https://github.com/WxxShirley/SE-Travel)
+- [zyz9740] nianlunshuoMac: 7 percent 小组 软件工程化开发项目源代码 [Github](https://github.com/zyz9740/nianlunshuoMac)
+- [wen-liao] SoftwareDevelopmentPractice: Team project for Software Development Practice (COMP130112) [Github](https://github.com/wen-liao/SoftwareDevelopmentPractice)
+- [1101-1105] Jellyfish: A simple Framework7 hybrid app. With PhoneGap you can easily convert it to native iOS app [Github](https://github.com/1101-1105/Jellyfish)
+
+
+
 #### 计算机可视化-COMP130174
 
 > Project of Zhiping Xu
 
 - [jeekzhang] WorldCupVisualization: Plotline实践——基于条形图的世界杯数据可视化  [Github](https://github.com/jeekzhang/WorldCupVisualization)
 - [tuanshaochi] Computer-Visualization: Homework of Computer Visualization [Github](https://github.com/tuanshaochi/Computer-Visualization)
+
+
+
+#### 数字信号处理-COMP130139
+
+> Project of Xiangyang Xue
+
+- [ichn-hu] Speech-Recognition-Via-CNN: 孤立词语音识别，复旦大学计算机科学技术学院数字信号处理期末项目 [Github](https://github.com/ichn-hu/Speech-Recognition-Via-CNN)
+- [AlexanderChiuluvB] SpeechRecognitionPJ: Course Project of Speech Recognition 数字信号处理 复旦大学 孤立词语音识别 [Github](https://github.com/AlexanderChiuluvB/SpeechRecognitionPJ)
+- [Hongqin-Li] speech-command-recognition: 复旦大学数字信号处理课程项目 [Github](https://github.com/Hongqin-Li/speech-command-recognition)
 
 
 
@@ -201,16 +223,6 @@
 - [TSKGHS17] dataset-tagger-ui: data tag platform, front-end [Github](https://github.com/TSKGHS17/dataset-tagger-ui)
 - [mobile-Internet-group] mobile-Internet-2023-spring: Location-Based-Wall & frontend & backend [Github](https://github.com/mobile-Internet-group)
 - [Wang-Mengyao] RoseSCI: A Thesis management system, aim to design a paper management system for convenient literature management and review. [Github](https://github.com/Wang-Mengyao/Thesis-management-system)
-
-
-
-#### 数字信号处理-COMP130139
-
-> Project of Xiangyang Xue
-
-- [ichn-hu] Speech-Recognition-Via-CNN: 孤立词语音识别，复旦大学计算机科学技术学院数字信号处理期末项目 [Github](https://github.com/ichn-hu/Speech-Recognition-Via-CNN)
-- [AlexanderChiuluvB] SpeechRecognitionPJ: Course Project of Speech Recognition 数字信号处理 复旦大学 孤立词语音识别 [Github](https://github.com/AlexanderChiuluvB/SpeechRecognitionPJ)
-- [Hongqin-Li] speech-command-recognition: 复旦大学数字信号处理课程项目 [Github](https://github.com/Hongqin-Li/speech-command-recognition)
 
 
 
