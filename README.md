@@ -161,6 +161,7 @@
 
 - [LittleBBBo] PJ-of-AI: 基于专家系统的词性标注器  [Github](https://github.com/LittleBBBo/PJ-of-AI)
 - [PrincipleZheng] CarAdvisor: 2022人工智能A-课程项目 [Github](https://github.com/PrincipleZheng/CarAdvisor)
+- [Outsider565] AICorrect: Give suggestion to correcting cpp program using AI system (面向初学者的人工智能辅助调试专家系统) [Github](https://github.com/Outsider565/AICorrect)
 
 
 
