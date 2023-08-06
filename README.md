@@ -148,6 +148,7 @@
 > Project of Xiaoqing Zheng: BP&HMM
 
 - [yiwengxie] Class-of-AI: 2023 人工智能A PJ [Github](https://github.com/yiwengxie/Class-of-AI)
+- [WxxShirley] fuzzy_expert_system: 基于模糊专家系统的笔记本选购推荐系统，人工智能课程期末pj [Github](https://github.com/WxxShirley/fuzzy_expert_system)
 - [aoweiyin] FDU-AIA-Project: 2023 spring term, AIA, Xiaoqing Zheng [Github](https://github.com/aoweiyin/FDU-AIA-Project)
 - [mc020207] mc_AI_Introduction: 2023年春复旦大学人工智能A实验 [Github](https://github.com/mc020207/mc_AI_Introduction)
 
