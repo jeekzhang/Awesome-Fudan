@@ -148,7 +148,6 @@
 > Project of Xiaoqing Zheng: BP&HMM
 
 - [yiwengxie] Class-of-AI: 2023 人工智能A PJ [Github](https://github.com/yiwengxie/Class-of-AI)
-- [WxxShirley] fuzzy_expert_system: 基于模糊专家系统的笔记本选购推荐系统，人工智能课程期末pj [Github](https://github.com/WxxShirley/fuzzy_expert_system)
 - [aoweiyin] FDU-AIA-Project: 2023 spring term, AIA, Xiaoqing Zheng [Github](https://github.com/aoweiyin/FDU-AIA-Project)
 - [mc020207] mc_AI_Introduction: 2023年春复旦大学人工智能A实验 [Github](https://github.com/mc020207/mc_AI_Introduction)
 
@@ -161,6 +160,7 @@
 > Project of Hui Wei: 专家系统  
 
 - [LittleBBBo] PJ-of-AI: 基于专家系统的词性标注器  [Github](https://github.com/LittleBBBo/PJ-of-AI)
+- [WxxShirley] fuzzy_expert_system: 基于模糊专家系统的笔记本选购推荐系统，人工智能课程期末pj [Github](https://github.com/WxxShirley/fuzzy_expert_system)
 - [PrincipleZheng] CarAdvisor: 2022人工智能A-课程项目 [Github](https://github.com/PrincipleZheng/CarAdvisor)
 - [Outsider565] AICorrect: Give suggestion to correcting cpp program using AI system (面向初学者的人工智能辅助调试专家系统) [Github](https://github.com/Outsider565/AICorrect)
 
@@ -194,6 +194,13 @@
 - [zyz9740] nianlunshuoMac: 7 percent 小组 软件工程化开发项目源代码 [Github](https://github.com/zyz9740/nianlunshuoMac)
 - [wen-liao] SoftwareDevelopmentPractice: Team project for Software Development Practice (COMP130112) [Github](https://github.com/wen-liao/SoftwareDevelopmentPractice)
 - [1101-1105] Jellyfish: A simple Framework7 hybrid app. With PhoneGap you can easily convert it to native iOS app [Github](https://github.com/1101-1105/Jellyfish)
+
+
+
+#### 数据挖掘技术-COMP130148
+
+> Project of Yanghua Xiao: 面向知识图谱的频繁模式挖掘&对指令数据的无监督聚类任务
+- [SephirothYS] DataMining_PJ: A course project for Data Mining course in FDU in 2023, include Knowledge Graph Mining and instructions unsupervised clustering [Github](https://github.com/SephirothYS/DataMining_PJ)
 
 
 
