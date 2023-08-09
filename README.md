@@ -153,7 +153,7 @@
 
 > Project of Zuxuan Wu: Transfer Learning  
 
-- [jeekzhang] BigDan: Better Image-classification Grade with Distillation and Augmentation Network  [Github](https://github.com/jeekzhang/BigDan)
+- [YesianRohn] BigDan: Better Image-classification Grade with Distillation and Augmentation Network  [Github](https://github.com/YesianRohn/BigDan)
 - [zjyhhhher] AICourse: 《人工智能A》课程PJ，搭配使用数据增强达到deit_small上的较高的图像分类准确率 [Github](https://github.com/zjyhhhher/AICourse)
 
 
@@ -220,6 +220,14 @@
 - [ichn-hu] Speech-Recognition-Via-CNN: 孤立词语音识别，复旦大学计算机科学技术学院数字信号处理期末项目 [Github](https://github.com/ichn-hu/Speech-Recognition-Via-CNN)
 - [AlexanderChiuluvB] SpeechRecognitionPJ: Course Project of Speech Recognition 数字信号处理 复旦大学 孤立词语音识别 [Github](https://github.com/AlexanderChiuluvB/SpeechRecognitionPJ)
 - [Hongqin-Li] speech-command-recognition: 复旦大学数字信号处理课程项目 [Github](https://github.com/Hongqin-Li/speech-command-recognition)
+
+
+
+#### 数字图像处理-COMP130032
+
+> Project of Junping Zhang: CHSNet [Baseline](https://github.com/RaccoonDML/CHSNet)
+
+- [AobtDai] CHSNet: Final PJ of DIP2023 in Fudan. Source code for ICASSP'23 paper: Cross-head Supervision for Crowd Counting with Noisy Annotations [Github](https://github.com/AobtDai/CHSNet)
 
 
 
