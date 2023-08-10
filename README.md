@@ -225,9 +225,15 @@
 
 #### 数字图像处理-COMP130032
 
-> Project of Junping Zhang: CHSNet [Baseline](https://github.com/RaccoonDML/CHSNet)
+> Project of Junping Zhang: CHSNet-2023 [Baseline](https://github.com/RaccoonDML/CHSNet)
 
 - [AobtDai] CHSNet: Final PJ of DIP2023 in Fudan. Source code for ICASSP'23 paper: Cross-head Supervision for Crowd Counting with Noisy Annotations [Github](https://github.com/AobtDai/CHSNet)
+- [ekonwang] DIP: A github repo for DIP class agnostic counting (CAC) project [Github](https://github.com/ekonwang/DIP)
+- [lily-wu1207] DIP-SDENet: Scale Deformable Embedding Network [Github](https://github.com/lily-wu1207/DIP-SDENet)
+
+> Project of Junping Zhang: CSRNet-2021 [Baseline](https://github.com/bridgeqiqi/DIP2021-FinalPJbaseline)
+
+- [bblss123] DIP2021-SSNet: the runnable code of SSNet for DIP2021 [Github](https://github.com/bblss123/DIP2021-SSNet)
 
 
 
