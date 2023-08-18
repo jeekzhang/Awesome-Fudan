@@ -148,8 +148,9 @@
 > Project of Xiaoqing Zheng: BP&HMM
 
 - [yiwengxie] Class-of-AI: 2023 人工智能A PJ [Github](https://github.com/yiwengxie/Class-of-AI)
-- [aoweiyin] FDU-AIA-Project: 2023 spring term, AIA, Xiaoqing Zheng [Github](https://github.com/aoweiyin/FDU-AIA-Project)
+- [AobtDai] FDU-AIA-Project: 2023 spring term, AIA, Xiaoqing Zheng [Github](https://github.com/AobtDai/FDU-AIA-Project)
 - [mc020207] mc_AI_Introduction: 2023年春复旦大学人工智能A实验 [Github](https://github.com/mc020207/mc_AI_Introduction)
+- [SephirothYS] AI_CourseProject_FDU: Artificial Intelligence course project include hand-written BP-network, simple CNN, HMM, BiLSTM + CRF [Github](https://github.com/SephirothYS/AI_CourseProject_FDU)
 
 > Project of Zuxuan Wu: Transfer Learning  
 
