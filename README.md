@@ -48,6 +48,7 @@
 
 
 #### 数据结构-COMP130004
+
 > Project of Tongbing Chen and Yuejie Zhang: 简易vim文本编辑器
 
 - [jeekzhang] Vim-mini: 2021年秋复旦大学大二上数据结构大作业——vim编辑器青春版 [Github](https://github.com/JingYiJun/sfSnakePro)
@@ -201,6 +202,7 @@
 #### 数据挖掘技术-COMP130148
 
 > Project of Yanghua Xiao: 面向知识图谱的频繁模式挖掘&对指令数据的无监督聚类任务
+
 - [SephirothYS] DataMining_PJ: A course project for Data Mining course in FDU in 2023, include Knowledge Graph Mining and instructions unsupervised clustering [Github](https://github.com/SephirothYS/DataMining_PJ)
 
 
