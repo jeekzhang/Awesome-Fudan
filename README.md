@@ -175,6 +175,7 @@
 - [dingfen] ParallelComputing: 并行计算程序设计代码库 [Github](https://github.com/dingfen/ParallelComputing)
 - [Row11n] ParallelComputingPJ: 并行快速排序&PSRS的MPI实现 [Github](https://github.com/Row11n/ParallelComputingPJ)
 - [mc020207] mc_Parallel_distributed_computing_lab: 复旦大学并行分布式开发lab [Github](https://github.com/mc020207/mc_Parallel_distributed_computing_lab)
+- [jeekzhang] PDC_Project: Parallel and Distributed Computing Course (COMP130192.01, 2023 Autumn) Project of Fudan University [Github](https://github.com/jeekzhang/PDC_Project)
 
 
 
@@ -237,6 +238,13 @@
 > Project of Junping Zhang: CSRNet-2021 [Baseline](https://github.com/bridgeqiqi/DIP2021-FinalPJbaseline)
 
 - [bblss123] DIP2021-SSNet: the runnable code of SSNet for DIP2021 [Github](https://github.com/bblss123/DIP2021-SSNet)
+
+
+#### 计算机视觉-COMP130124
+
+> Project of Jingjing Chen
+
+- [CV-Magician] MMM-CLIP: Multi-label-image-classification with Multi-method CLIP [Github](https://github.com/CV-Magician/MMM-CLIP)
 
 
 
