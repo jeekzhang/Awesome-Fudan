@@ -244,6 +244,7 @@
 
 > Project of Jingjing Chen
 
+- [Outsider565] DFSS: Distil FCOS for Security Scanning [Github](https://github.com/Outsider565/Outsider565/blob/main/DFSS.pdf)
 - [CV-Magician] MMM-CLIP: Multi-label-image-classification with Multi-method CLIP [Github](https://github.com/CV-Magician/MMM-CLIP)
 
 
