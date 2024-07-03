@@ -264,6 +264,14 @@
 
 
 
+#### 数据库设计-SOFT130015
+
+> Project of Yijian Wu
+
+- [Heeqw] PJ_Database_Design: 复旦大学2024春季学期数据库设计PJ [Github](https://github.com/Heeqw/PJ-Database-Design)
+
+
+
 ## 课程笔记
 
 这个部分将收录课程相关的笔记，供学习者查漏补缺和期末突击。
