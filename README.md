@@ -77,6 +77,9 @@
 
 - [qilinO-o] RISCV64-CPU: A RISC-V64 CPU using System Verilog  [Github](https://github.com/qilinO-o/RISCV64-CPU)
 
+> Project of Chen Chen 24spring 机组(H): 
+
+- [huazzeng] 五级流水 支持特权指令的执行 RISCV64 [Github](https://github.com/huazZeng/PipelinedCPU)
 
 
 #### 计算机网络-COMP130136
