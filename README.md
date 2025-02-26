@@ -1,6 +1,6 @@
 # Awesome-Fudan 
 
-# ![](https://upload.wikimedia.org/wikipedia/commons/4/44/Fudan_University_Logo.svg)[![Awesome](https://camo.githubusercontent.com/64f8905651212a80869afbecbf0a9c52a5d1e70beab750dea40a994fa9a9f3c6/68747470733a2f2f617765736f6d652e72652f62616467652e737667)](https://awesome.re/)![Fudan](https://img.shields.io/badge/Fu-Dan-c10m95)
+# ![Awesome](https://awesome.re/)![Fudan](https://img.shields.io/badge/Fu-Dan-c10m95)
 
 欢迎来到 Awesome-Fudan 仓库！本项目旨在汇总和整理复旦大学课程相关的代码仓库，为查找课程代码资源提供快速索引。
 
