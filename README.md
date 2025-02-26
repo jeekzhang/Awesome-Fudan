@@ -294,7 +294,7 @@
 - [KaguyaHouraisan] Course-Projects-of-FDU-Software-Engineering: All projects I completed in Software Engineering in Fudan University from 2018 / 复旦大学2018级软件工程专业课程项目合集 [Github](https://github.com/KaguyaHouraisan/Course-Projects-of-FDU-Software-Engineering)
 - [ForeverHaibara] Fudan-Courses: Notes for Courses in School of Data Science, Fudan University / 复旦大学数据科学与大数据技术专业（复旦大数据）学习笔记 [Github](https://github.com/ForeverHaibara/Fudan-Courses)
 - [opheliazhang2] FDU 开放题库 [Notion](https://same-smile-119.notion.site/FDU-82b7f0265fc743f7a9bbf32293495b52)
-- [Snivellus Snape] FDU 大数据学院专业课笔记 (2024秋) [Github](https://github.com/Snivallus/-FDU-Course-Notes-2024-Fall-)
+- [Snivellus Snape] FDU 大数据学院 2024 秋季学期专业课笔记 [Github](https://github.com/Snivallus/-FDU-Course-Notes-2024-Fall-)
 
 ## 如何贡献
 
