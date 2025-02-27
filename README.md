@@ -1,6 +1,6 @@
 # Awesome-Fudan 
 
-# [![Awesome](https://camo.githubusercontent.com/64f8905651212a80869afbecbf0a9c52a5d1e70beab750dea40a994fa9a9f3c6/68747470733a2f2f617765736f6d652e72652f62616467652e737667)](https://awesome.re/)![Fudan](https://img.shields.io/badge/Fu-Dan-c10m95)
+# [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)![Fudan](https://img.shields.io/badge/Fu-Dan-c10m95)
 
 欢迎来到 Awesome-Fudan 仓库！本项目旨在汇总和整理复旦大学课程相关的代码仓库，为查找课程代码资源提供快速索引。
 
@@ -284,6 +284,8 @@
 
 这个部分将收录课程相关的笔记，供学习者查漏补缺和期末突击。
 - [FDU19CS] AcceptedHelper: Fudan2019CS课程笔记汇总（含离散数学、计算机系统基础、计算理论基础、操作系统、计算机网络、数据挖掘、计算机图形学） [Github Page](https://fdu19cs.github.io/AcceptedHelper)
+- [Snivellus Snape] FDU 大数据学院 2024 秋季学期专业课笔记 [Github](https://github.com/Snivallus/-FDU-Course-Notes-2024-Fall-)  
+(含高等线性代数、统计学基础Ⅱ:回归分析、统计机器学习、数值算法与案例分析Ⅰ、图像处理与可视化、操作系统、应用泛函分析、脑科学与类脑系统)
 
 
 
@@ -294,8 +296,6 @@
 - [KaguyaHouraisan] Course-Projects-of-FDU-Software-Engineering: All projects I completed in Software Engineering in Fudan University from 2018 / 复旦大学2018级软件工程专业课程项目合集 [Github](https://github.com/KaguyaHouraisan/Course-Projects-of-FDU-Software-Engineering)
 - [ForeverHaibara] Fudan-Courses: Notes for Courses in School of Data Science, Fudan University / 复旦大学数据科学与大数据技术专业（复旦大数据）学习笔记 [Github](https://github.com/ForeverHaibara/Fudan-Courses)
 - [opheliazhang2] FDU 开放题库 [Notion](https://same-smile-119.notion.site/FDU-82b7f0265fc743f7a9bbf32293495b52)
-
-
 
 ## 如何贡献
 
