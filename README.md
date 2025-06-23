@@ -80,6 +80,7 @@
 > Project of Chen Chen 24spring 机组(H): 
 
 - [huazzeng] 五级流水 支持特权指令的执行 RISCV64 [Github](https://github.com/huazZeng/PipelinedCPU)
+- [MikesonVinent-two] RISC-V_PIPELINE: 复旦大学25春计算机组成与结构(H)课程项目五级流水线CPU [Github](https://github.com/MikesonVinent-two/RISC-V_PIPELINE)
 
 
 #### 计算机网络-COMP130136
@@ -272,6 +273,7 @@
 > Project of Yijian Wu
 
 - [Heeqw] PJ_Database_Design: 复旦大学2024春季学期数据库设计PJ [Github](https://github.com/Heeqw/PJ-Database-Design)
+- [MikesonVinent-two] LLM_evaluation: 复旦大学25春数据库设计(H)课程项目 [Github](https://github.com/MikesonVinent-two/LLM_evaluation)
 
 
 
