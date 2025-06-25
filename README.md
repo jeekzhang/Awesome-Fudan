@@ -80,6 +80,7 @@
 > Project of Chen Chen 24spring 机组(H): 
 
 - [huazzeng] 五级流水 支持特权指令的执行 RISCV64 [Github](https://github.com/huazZeng/PipelinedCPU)
+- [MikesonVinent-two] RISC-V_PIPELINE: 复旦大学25春计算机组成与结构(H)课程项目五级流水线CPU [Github](https://github.com/MikesonVinent-two/RISC-V_PIPELINE)
 
 
 #### 计算机网络-COMP130136
@@ -155,6 +156,7 @@
 - [AobtDai] FDU-AIA-Project: 2023 spring term, AIA, Xiaoqing Zheng [Github](https://github.com/AobtDai/FDU-AIA-Project)
 - [mc020207] mc_AI_Introduction: 2023年春复旦大学人工智能A实验 [Github](https://github.com/mc020207/mc_AI_Introduction)
 - [SephirothYS] AI_CourseProject_FDU: Artificial Intelligence course project include hand-written BP-network, simple CNN, HMM, BiLSTM + CRF [Github](https://github.com/SephirothYS/AI_CourseProject_FDU)
+- [MikesonVinent-two] Fudan-25-spring-Ai-H--project: 复旦大学25春人工智能(H)课程项目 [Github](https://github.com/MikesonVinent-two/Fudan-25-spring-Ai-H--project)
 
 > Project of Zuxuan Wu: Transfer Learning  
 
@@ -272,6 +274,7 @@
 > Project of Yijian Wu
 
 - [Heeqw] PJ_Database_Design: 复旦大学2024春季学期数据库设计PJ [Github](https://github.com/Heeqw/PJ-Database-Design)
+- [MikesonVinent-two] LLM_evaluation: 复旦大学25春数据库设计(H)课程项目 [Github](https://github.com/MikesonVinent-two/LLM_evaluation)
 
 
 
