@@ -282,6 +282,10 @@
 > Project of Zhe Zhou
 - [Information-System-Security] SEEDLABs: 复旦大学信息系统安全各课程项目集合 [Github](https://github.com/Qiu-Jianrong/Information-System-Security) 
 
+#### 人工智能基础-AIB210002
+> Project of Yajie Qin
+
+- [zoisythe] FDU_AI_Fundamentals_Course: 复旦大学人工智能基础课程(2025秋)项目初始文件及个人示例 [GitHub](https://github.com/zoisythe/FDU_AI_Fundamentals_Course)
 
 ## 课程笔记
 
