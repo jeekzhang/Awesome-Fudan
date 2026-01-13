@@ -277,6 +277,8 @@
 - [Heeqw] PJ_Database_Design: 复旦大学2024春季学期数据库设计PJ [Github](https://github.com/Heeqw/PJ-Database-Design)
 - [MikesonVinent-two] LLM_evaluation: 复旦大学25春数据库设计(H)课程项目 [Github](https://github.com/MikesonVinent-two/LLM_evaluation)
 
+- [yeqingmin] PJ_Database_Design: 复旦大学2024春季学期数据库设计PJ2(使用原始JavaWeb，web项目清晰结构，前后端) [Github](https://github.com/yeqingmin/FoodOrderSystem)
+
 
 
 #### 信息系统安全
@@ -287,6 +289,10 @@
 > Project of Yajie Qin
 
 - [zoisythe] FDU_AI_Fundamentals_Course: 复旦大学人工智能基础课程(2025秋)项目初始文件及个人示例 [GitHub](https://github.com/zoisythe/FDU_AI_Fundamentals_Course)
+
+#### 软件设计
+> Project of Tiange Zhang
+- [yeqingmin] PJ_Software_Design: 复旦大学软件设计课程项目，使用各类设计模型实现HTML终端编辑器 [Github](https://github.com/yeqingmin/SoftwareDesign)
 
 ## 课程笔记
 
