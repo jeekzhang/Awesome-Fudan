@@ -24,6 +24,14 @@
 
 
 
+#### 程序设计-CS10004
+
+> Project of Kaiyu Dai
+
+- [Nianle-Li] Maze: 控制台迷宫寻宝游戏，2024年秋季复旦大学程序设计课程项目 [Github](https://github.com/Nianle-Li/FDU_PJs/tree/main/00-maze)
+
+
+
 #### 面向对象程序设计-COMP130135
 
 > Project of Xueping Wang: 贪吃蛇 [Baseline](https://github.com/jhpy1024/sfSnake)
@@ -44,6 +52,10 @@
 > Project of Yaqian Zhou
 
 - [Monthlyaway] OOP-Course-2023-Spring: Object Oriented Programming taught by Zhou Yaqian [Github](https://github.com/Monthlyaway/OOP-2023-Spring)
+
+> Project of Tiange Zhang
+
+- [Nianle-Li] Board-games: 棋类对弈系统，2025年春季面向对象程序设计课程项目 [Github](https://github.com/Nianle-Li/FDU_PJs/tree/main/01-board-games)
 
 
 
@@ -67,6 +79,20 @@
 
 > Project of Xiaoqing Zheng
 - [garyagasa] BST Dictionary, Chengdu Metro Map, ...（内含相关备考资料、真题、slide、Lab和PJ） [Github](https://github.com/garyagasa/DataStructure_2025Fall)
+
+> Project of Bihuan Chen
+
+- [Nianle-Li] Dungeon: 2025年秋季数据结构课程项目 [Github](https://github.com/Nianle-Li/FDU_PJs/tree/main/02-dungeon-project)
+
+
+
+#### 数字逻辑与部件设计-CS20008
+
+> Project of Rui Zhang
+
+- [Nianle-Li] DCD: 2025年秋季数字逻辑与部件设计课程项目，Verilog 实验合集与单周期 RISC-V CPU（Nexys4 DDR） [Github](https://github.com/Nianle-Li/FDU_PJs/tree/main/03-dcd)
+
+
 
 #### 计算机组成与体系结构-COMP130191
 
@@ -158,6 +184,7 @@
 - [mc020207] mc_AI_Introduction: 2023年春复旦大学人工智能A实验 [Github](https://github.com/mc020207/mc_AI_Introduction)
 - [SephirothYS] AI_CourseProject_FDU: Artificial Intelligence course project include hand-written BP-network, simple CNN, HMM, BiLSTM + CRF [Github](https://github.com/SephirothYS/AI_CourseProject_FDU)
 - [MikesonVinent-two] Fudan-25-spring-Ai-H--project: 复旦大学25春人工智能(H)课程项目 [Github](https://github.com/MikesonVinent-two/Fudan-25-spring-Ai-H--project)
+- [Nianle-Li] Artificial-intelligence: 2026年春季人工智能(H)课程项目 [Github](https://github.com/Nianle-Li/FDU_PJs/tree/main/04-artificial-intelligence)
 
 > Project of Zuxuan Wu: Transfer Learning  
 
@@ -279,6 +306,9 @@
 
 - [yeqingmin] PJ_Database_Design: 复旦大学2024春季学期数据库设计PJ2(使用原始JavaWeb，web项目清晰结构，前后端) [Github](https://github.com/yeqingmin/FoodOrderSystem)
 
+> Project of Zhenying He
+
+- [Nianle-Li] Campus-qa-system: 数据库设计(H)课程项目，校园信息问答系统 [Github](https://github.com/Nianle-Li/FDU_PJs/tree/main/05-campus-qa-system)
 
 
 #### 信息系统安全
